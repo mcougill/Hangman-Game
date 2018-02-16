@@ -10,4 +10,4 @@ The rules are fairly simple:
 4) Run out of lives before guessing the magic word? Sorry! You lose
 3) Have fun? Play again! 
 
-#hangtenm my friends
+#hangten my friends
